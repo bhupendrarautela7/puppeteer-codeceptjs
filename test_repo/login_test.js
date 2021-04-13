@@ -1,6 +1,6 @@
 const { I, login_obj } = inject();
 
-Feature('login').tag("prod","test","v1");
+Feature('login').tag("prod","test");
 Scenario('Navigate to school at home page and login to the application.', () => {
 // Login operation
 	I.amOnPage(login_obj.urls.testpageUrl);
@@ -14,8 +14,6 @@ Scenario('Navigate to school at home page and login to the application.', () => 
 
 });
 //npx codeceptjs run --steps --profile prod
-//working code pused to git
-/Users/bhupendrarautela_caroobi/IdeaProjects/puppeteer-codeceptjs
 
 
 
