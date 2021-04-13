@@ -14,8 +14,8 @@ Scenario('Navigate to school at home page and login to the application.', () => 
 
 });
 //npx codeceptjs run --steps --profile prod
-
-
+//working code pused to git
+/Users/bhupendrarautela_caroobi/IdeaProjects/puppeteer-codeceptjs
 
 
 
