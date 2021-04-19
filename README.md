@@ -1,6 +1,6 @@
 # codeceptjs-puppeteer
 
-<<<<<<< HEAD
+
 Project setup steps -
 --------------------------
 
